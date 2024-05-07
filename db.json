@@ -1,0 +1,10 @@
+{
+  "body": {
+    "code": "200",
+    "Success": true,
+    "data": {
+      "pageBase": "",
+      "setting": false
+    }
+  }
+}
